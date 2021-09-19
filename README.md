@@ -11,7 +11,7 @@ Design:
 
 Use:
 
-	The game will run in the command window terminal. It will display the rules of the game and the maze, which
+The game will run in the command window terminal. It will display the rules of the game and the maze, which
 then right after the game(program) will ask the user where does to spawn the player's character. The rules of the 
 game is as follows:
 
